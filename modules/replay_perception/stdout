@@ -1,0 +1,967 @@
+[{'tracking_time': 1.0, 'trace': [], 'type': 'VEHICLE', 'height': 1, 'width': 2, 'length': 4, 'theta': 1.1659045405098132, 'position': [587027, 4141502, 0.0], 'speed': 0.0, 'id': 2}]
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366884.96
+}
+header {
+  timestamp_sec: 1692366884.96
+  module_name: "perception"
+  sequence_num: 1
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.06
+}
+header {
+  timestamp_sec: 1692366885.06
+  module_name: "perception"
+  sequence_num: 2
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.16
+}
+header {
+  timestamp_sec: 1692366885.16
+  module_name: "perception"
+  sequence_num: 3
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.26
+}
+header {
+  timestamp_sec: 1692366885.26
+  module_name: "perception"
+  sequence_num: 4
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.36
+}
+header {
+  timestamp_sec: 1692366885.36
+  module_name: "perception"
+  sequence_num: 5
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.46
+}
+header {
+  timestamp_sec: 1692366885.46
+  module_name: "perception"
+  sequence_num: 6
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.56
+}
+header {
+  timestamp_sec: 1692366885.56
+  module_name: "perception"
+  sequence_num: 7
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.66
+}
+header {
+  timestamp_sec: 1692366885.66
+  module_name: "perception"
+  sequence_num: 8
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.76
+}
+header {
+  timestamp_sec: 1692366885.76
+  module_name: "perception"
+  sequence_num: 9
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.86
+}
+header {
+  timestamp_sec: 1692366885.86
+  module_name: "perception"
+  sequence_num: 10
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366885.96
+}
+header {
+  timestamp_sec: 1692366885.96
+  module_name: "perception"
+  sequence_num: 11
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.06
+}
+header {
+  timestamp_sec: 1692366886.06
+  module_name: "perception"
+  sequence_num: 12
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.17
+}
+header {
+  timestamp_sec: 1692366886.17
+  module_name: "perception"
+  sequence_num: 13
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.27
+}
+header {
+  timestamp_sec: 1692366886.27
+  module_name: "perception"
+  sequence_num: 14
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.37
+}
+header {
+  timestamp_sec: 1692366886.37
+  module_name: "perception"
+  sequence_num: 15
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.47
+}
+header {
+  timestamp_sec: 1692366886.47
+  module_name: "perception"
+  sequence_num: 16
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.57
+}
+header {
+  timestamp_sec: 1692366886.57
+  module_name: "perception"
+  sequence_num: 17
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.67
+}
+header {
+  timestamp_sec: 1692366886.67
+  module_name: "perception"
+  sequence_num: 18
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.77
+}
+header {
+  timestamp_sec: 1692366886.77
+  module_name: "perception"
+  sequence_num: 19
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.87
+}
+header {
+  timestamp_sec: 1692366886.87
+  module_name: "perception"
+  sequence_num: 20
+}
+
+perception_obstacle {
+  id: 2
+  position {
+    x: 587027
+    y: 4141502
+    z: 0.0
+  }
+  theta: 1.16590454051
+  velocity {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  length: 4
+  width: 2
+  height: 1
+  polygon_point {
+    x: 587026.868694
+    y: 4141504.23221
+    z: 0.0
+  }
+  polygon_point {
+    x: 587025.293016
+    y: 4141500.55563
+    z: 0.0
+  }
+  polygon_point {
+    x: 587027.131306
+    y: 4141499.76779
+    z: 0.0
+  }
+  polygon_point {
+    x: 587028.706984
+    y: 4141503.44437
+    z: 0.0
+  }
+  tracking_time: 1.0
+  type: VEHICLE
+  timestamp: 1692366886.97
+}
+header {
+  timestamp_sec: 1692366886.97
+  module_name: "perception"
+  sequence_num: 21
+}
+

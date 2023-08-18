@@ -222,6 +222,7 @@ void OnLanePlanning::RunOnce(const LocalView& local_view,
     return;
   }
 
+  reference_line_provider_->UpdateVehicleState(vehicle_state);
   if (IsDifferentRouting(last_routing_, *local_view_.routing)) {
     last_routing_ = *local_view_.routing;
     PlanningContext::MutablePlanningStatus()->Clear();
@@ -229,7 +230,6 @@ void OnLanePlanning::RunOnce(const LocalView& local_view,
   }
 
   // Update reference line provider and reset pull over if necessary
-  reference_line_provider_->UpdateVehicleState(vehicle_state);
 
   // planning is triggered by prediction data, but we can still use an estimated
   // cycle time for stitching

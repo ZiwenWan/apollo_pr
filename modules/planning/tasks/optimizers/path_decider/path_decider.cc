@@ -124,6 +124,8 @@ bool PathDecider::MakeStaticObstacleDecision(
     double min_nudge_l =
         half_width + FLAGS_static_decision_nudge_l_buffer / 2.0;
 
+    AERROR<<"IsLaneBlocking: "<<obstacle->IsLaneBlocking()<<"\n"
+	<<"min nudge l: "<<min_nudge_l<<"\n";	    
     if (curr_l - lateral_radius > sl_boundary.end_l() ||
         curr_l + lateral_radius < sl_boundary.start_l()) {
       // ignore
@@ -132,6 +134,8 @@ bool PathDecider::MakeStaticObstacleDecision(
     } else if (obstacle->IsLaneBlocking() ||
                (curr_l - sl_boundary.end_l() < min_nudge_l &&
                 curr_l - sl_boundary.start_l() > min_nudge_l)) {
+      //} else if (obstacle->IsLaneBlocking()){
+      
       // stop
       *object_decision.mutable_stop() = GenerateObjectStopDecision(*obstacle);
 
